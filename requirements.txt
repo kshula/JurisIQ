@@ -3,5 +3,5 @@ spacy==3.7.5
 thinc==8.2.5
 textblob
 python-docx
-numpy
+numpy==1.19.5
 
