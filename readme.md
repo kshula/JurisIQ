@@ -19,8 +19,8 @@ This is an automated legal document analysis software built using Streamlit. The
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/legal-document-analysis.git
-    cd legal-document-analysis
+    git clone https://github.com/kshula/JurisIQ.git
+    cd python
     ```
 
 2. Install the required libraries:
@@ -40,7 +40,7 @@ This is an automated legal document analysis software built using Streamlit. The
 1. Run the Streamlit app:
 
     ```sh
-    streamlit run legal_document_analysis.py
+    streamlit run main.py
     ```
 
 2. Open your web browser and navigate to the URL provided by Streamlit (usually `http://localhost:8501`).
@@ -63,5 +63,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For questions or suggestions, please contact [yourname](mailto:youremail@example.com).
+For questions or suggestions, please contact [Kampamba Shula](mailto:kampambashula@gmail.com).
 
