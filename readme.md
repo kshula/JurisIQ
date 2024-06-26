@@ -2,8 +2,10 @@
 
 # Automated Legal Document Analysis Software
 ![](<python/image/JURIS IQ.png>)
-This is an automated legal document analysis software built using Streamlit. The software allows users to upload text files, scans the text for legal parameters, and provides an analysis based on standard global best practices for legal document analysis. Such analysis can not only help a lawyer but also benefit a common man, in a way of getting a preliminary understanding of any legal document.
-
+This is an automated legal document analysis software built using Streamlit. The software allows users to upload text files, scans the text for legal parameters, and provides an analysis based on standard global best practices for legal document analysis. 
+![](python/image/CLAUSES.png)
+Such analysis can not only help a lawyer but also benefit a common man, in a way of getting a preliminary understanding of any legal document.
+![](python/image/SEARCH.png)
 
 ## Features
 
