@@ -1,4 +1,7 @@
 streamlit
+spacy==3.7.5
+thinc==8.2.5
+textblob
 python-docx
-spacy
+numpy==1.23.0
 
